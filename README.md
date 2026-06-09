@@ -1,2 +1,2 @@
 # E-bank
-إجراء العمليات البنكية 
+Banking Operations Management System 
